@@ -57,7 +57,7 @@ export default function Blogs({ blogs }: { blogs: FrontMatter[] }) {
         <PageTop pageTitle="Blogs">
           I enjoy writing various blogs on tech, travel, and more with a particular
           interest in web development and tech careers. I have already written
-          {blogs.length} blogs so far.
+            {blogs.length} blogs so far.
         </PageTop>
 
         <AnimatedDiv

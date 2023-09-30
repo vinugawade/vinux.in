@@ -95,7 +95,7 @@ const utilities: Utilities = {
     },
 
     {
-      title: "Software & Applications",
+      title: "Softwares & Applications",
       data: [
         {
           name: "Responsively",
