@@ -14,8 +14,8 @@ import fetcher from "../lib/fetcher";
 import { HiOutlineQrcode } from "react-icons/hi";
 import { BsDot } from "react-icons/bs";
 import { Song } from "@lib/types";
-import NextLogo from "./SVG/NextLogo";
-import VercelLogo from "./SVG/VercelLogo";
+// import NextLogo from "./SVG/NextLogo";
+// import VercelLogo from "./SVG/VercelLogo";
 
 export default function Footer({
   setShowQR,
