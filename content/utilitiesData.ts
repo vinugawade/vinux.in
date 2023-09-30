@@ -1,39 +1,42 @@
 import {
   SiVisualstudiocode,
-  SiSublimetext,
-  SiMicrosoftedge,
-  SiGooglechrome,
+  // SiSublimetext,
+  // SiMicrosoftedge,
+  // SiGooglechrome,
   SiVercel,
   SiPrettier,
-  SiPnpm,
+  // SiPnpm,
   SiYarn,
-  SiFigma,
-  SiInsomnia,
-  SiBitwarden,
+  // SiFigma,
+  // SiInsomnia,
+  // SiBitwarden,
   SiSpotify,
-  SiObsstudio,
-  SiGrammarly,
-  SiCanva,
-  SiGooglekeep,
-  SiNotepadplusplus,
+  // SiObsstudio,
+  // SiGrammarly,
+  // SiCanva,
+  // SiGooglekeep,
+  // SiNotepadplusplus,
   SiPostman,
   SiBrave,
   SiFirefox,
-  SiProtools,
+  // SiProtools,
   SiOpensourceinitiative,
-  SiAib,
+  // SiAib,
   SiNpm,
   SiGoogleassistant,
   SiMacos,
 } from "react-icons/si";
 import {
-  BsFillPaletteFill,
+  // BsFillPaletteFill,
   BsFillTerminalFill,
-  BsWindows,
+  // BsWindows,
   BsGithub,
   BsUbuntu,
 } from "react-icons/bs";
-import { FaGitAlt, FaSearch } from "react-icons/fa";
+import {
+  FaGitAlt,
+  // FaSearch
+} from "react-icons/fa";
 import SVG from "@components/SVG";
 import { Utilities } from "@lib/types";
 

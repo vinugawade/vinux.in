@@ -1,4 +1,4 @@
-import { getAllViews } from "@lib/supabase";
+// import { getAllViews } from "@lib/supabase";
 import { NextApiRequest, NextApiResponse } from "next";
 
 /**
@@ -9,7 +9,11 @@ import { NextApiRequest, NextApiResponse } from "next";
  */
 export default async function views(req: NextApiRequest, res: NextApiResponse) {
   if (req.method === "GET") {
-    return res.status(200).json(await getAllViews());
+    return res.status(405).json({
+      error:
+        "Invalid method detected! Please switch to GET before proceeding. Trust me, it's the way to go",
+    });
+    // return res.status(200).json(await getAllViews());
   } else {
     return res.status(405).json({
       error:
