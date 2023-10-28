@@ -42,7 +42,7 @@ const pageMeta: PageMeta = {
     description:
       "I have actively participated in contests, courses, and tests, earning certifications in various skills. You can find my certificates listed below.",
     image: "/Img/Profile/profile-1.png",
-    keywords: "Certificates, verified",
+    keywords: "Certificates, verified, achievements",
   },
   projects: {
     title: "Projects",

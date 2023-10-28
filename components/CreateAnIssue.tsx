@@ -8,7 +8,7 @@ export default function CreateAnIssue() {
         Something went wrong. I know you don't know what's the problem. So Let
         me know by{" "}
         <Link
-          href="https://github.com/j471n/j471n.in/issues/new"
+          href="https://github.com/vinugawade/vinux.in/issues/new"
           target="_blank"
           rel="noopener noreferrer"
           className="underline font-bold hover:text-blue-500 "
