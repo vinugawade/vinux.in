@@ -72,11 +72,6 @@
       "type": "image/gif"
     },
     {
-      "src": "screenshots/projects.png",
-      "sizes": "360x721",
-      "type": "image/gif"
-    },
-    {
       "src": "screenshots/stats.png",
       "sizes": "360x721",
       "type": "image/gif"
