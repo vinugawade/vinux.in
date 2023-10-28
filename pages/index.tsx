@@ -73,7 +73,7 @@ export default function Home(
                   variants={opacityVariant}
                   className="font-medium text-xs md:text-sm lg:text-lg text-[#383838] dark:text-gray-200"
                 >
-                  Innovative Web Developer Pushing Boundaries with Code😉.
+                  Innovative Web Developer Pushing Boundaries with Code😉&#9996;.
                 </motion.p>
               </div>
 
@@ -81,7 +81,7 @@ export default function Home(
                 variants={opacityVariant}
                 className=" text-[#474747] dark:text-gray-300 font-medium text-sm md:text-base text-center"
               >
-                🎓 Diploma in Computer Engineering | 🌟 Eager to Explore Diverse Web Technologies
+                🎓 Diploma in Computer Engineering | &#10024; Eager to Explore Diverse Web Technologies
               </motion.p>
             </div>
 

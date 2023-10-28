@@ -14,14 +14,14 @@ export default function Contact() {
           variants={popUpFromBottomForText}
           className="font-bold text-4xl"
         >
-          Let's Connect and Create Digital Magic🪄✨!
+          Let's Connect and Create Digital Magic &#129497; &#127776;!
         </AnimatedHeading>
 
         <AnimatedText
           variants={popUpFromBottomForText}
           className="px-4 py-2 font-medium dark:text-gray-300"
         >
-          Got something on your mind? Let's make it happen! 🤔✨ Whether you need help with a project or just fancy a friendly chat, I'm all ears! 🙌✉️
+          Got something on your mind? Let's make it happen! &#10024; Whether you need help with a project or just fancy a friendly chat, I'm all ears! &#129309; &#9993;&#65039;
         </AnimatedText>
       </section>
 

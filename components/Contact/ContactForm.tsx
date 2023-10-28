@@ -59,7 +59,7 @@ export default function Form() {
       .then(() => {
         formRef.current.reset();
         toast.update(toastId, {
-          render: "Message Sent ✌",
+          render: "Message Sent &#9996;",
           type: "success",
           isLoading: false,
           autoClose: 3000,
