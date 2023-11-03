@@ -88,7 +88,7 @@ export async function getCertificates() {
       id : "7",
       pinned : true,
       title : "Microsoft Certified HTML, CSS & Bootstrap",
-      issuedDate : "July, 2022",
+      issuedDate : "01 July, 2022",
       orgName : "DevTown",
       orgLogo : "https://media.licdn.com/dms/image/C4E0BAQEBQ0ItUQd9GA/company-logo_200_200/0/1662036890743?e=1706745600&v=beta&t=4hjWG28lzjzbwU4uXR7mcLj3txjT-FRUNx1YvwL0fvE",
       url : "https://cert.devtown.in/verify/Z6BuLj"
@@ -97,7 +97,7 @@ export async function getCertificates() {
       id : "7",
       pinned : true,
       title : "Google Certified HTML, CSS and Bootstrap Bootcamp",
-      issuedDate : "July, 2022",
+      issuedDate : "01 July, 2022",
       orgName : "DevTown",
       orgLogo : "https://media.licdn.com/dms/image/C4E0BAQEBQ0ItUQd9GA/company-logo_200_200/0/1662036890743?e=1706745600&v=beta&t=4hjWG28lzjzbwU4uXR7mcLj3txjT-FRUNx1YvwL0fvE",
       url : "https://cert.devtown.in/verify/ZpdjXe"
@@ -106,7 +106,7 @@ export async function getCertificates() {
       id : "8",
       pinned : true,
       title : "HTML, CSS and Bootstrap Bootcamp",
-      issuedDate : "July, 2022",
+      issuedDate : "01 July, 2022",
       orgName : "DevTown",
       orgLogo : "https://media.licdn.com/dms/image/C4E0BAQEBQ0ItUQd9GA/company-logo_200_200/0/1662036890743?e=1706745600&v=beta&t=4hjWG28lzjzbwU4uXR7mcLj3txjT-FRUNx1YvwL0fvE",
       url : "https://cert.devtown.in/verify/DlwGJ"
