@@ -33,7 +33,7 @@ export default function TableOfContents({
       removeScrollLock();
       setIsTOCActive(false);
     }
-  }, [size]);
+  }, [setIsTOCActive, size]);
   useEffect(() => {
     setToc(
       tableOfContents.filter((table: any) =>

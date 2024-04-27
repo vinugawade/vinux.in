@@ -199,8 +199,7 @@ export default function Form() {
         >
           <Ripples
             className="flex w-full justify-center"
-            color="rgba(225, 225,225,0.2)"
-          >
+            color="rgba(225, 225,225,0.2)" placeholder={undefined} onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined}          >
             <button
               ref={sendButtonRef}
               type="submit"

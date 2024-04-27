@@ -23,6 +23,7 @@ export default function Post({
       });
 
     post != null && registerView();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [post !== null && post.meta.slug]);
 
   if (error) return <PageNotFound />;
