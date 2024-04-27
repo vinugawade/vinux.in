@@ -1,6 +1,6 @@
 {
-  "name": "portfolio-next",
-  "version": "0.1.0",
+  "name": "vinux-portfolio",
+  "version": "1.0.0",
   "private": true,
   "license": "MIT",
   "scripts": {
