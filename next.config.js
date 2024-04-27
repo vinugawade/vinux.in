@@ -23,7 +23,8 @@ module.exports = withPWA({
       "activity-graph.herokuapp.com",
       "i.scdn.co", // images from spotify
       "images.unsplash.com",
-      "media.licdn.com",
+      "assets-global.website-files.com",
+      "s.udemycdn.com"
     ],
   },
 });

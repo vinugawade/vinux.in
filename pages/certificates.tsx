@@ -58,6 +58,7 @@ export default function Certificates({
                           style={{
                             objectFit: "contain",
                           }}
+                          className="m-3"
                         />
                       </div>
                       <p className="text-2xl text-white-500 py-2">

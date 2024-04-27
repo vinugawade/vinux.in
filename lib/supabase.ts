@@ -36,7 +36,7 @@ export async function getCertificates() {
       title : "Complete PHP Crash Course",
       issuedDate : "4 Dec, 2021",
       orgName : "Udemy",
-      orgLogo : "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1626275253364?e=1706745600&v=beta&t=hZpSsTExW1TDpYr3HBriHaXhgkGyaGrha3yv1yzEDFo",
+      orgLogo : "https://s.udemycdn.com/meta/default-meta-image-v2.png",
       url : "https://www.udemy.com/certificate/UC-a10e1367-b162-4806-bd29-df6665ac1c44"
     },
     {
@@ -45,7 +45,7 @@ export async function getCertificates() {
       title : "SQL- Introduction to SQL programming",
       issuedDate : "20 Mar, 2021",
       orgName : "Udemy",
-      orgLogo : "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1626275253364?e=1706745600&v=beta&t=hZpSsTExW1TDpYr3HBriHaXhgkGyaGrha3yv1yzEDFo",
+      orgLogo : "https://s.udemycdn.com/meta/default-meta-image-v2.png",
       url : "https://www.udemy.com/certificate/UC-e629ca3b-a179-4400-b82e-ca2baf327e7c"
     },
     {
@@ -54,7 +54,7 @@ export async function getCertificates() {
       title : "Practical Git: for Absolute Beginners",
       issuedDate : "11 Sept, 2021",
       orgName : "Udemy",
-      orgLogo : "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1626275253364?e=1706745600&v=beta&t=hZpSsTExW1TDpYr3HBriHaXhgkGyaGrha3yv1yzEDFo",
+      orgLogo : "https://s.udemycdn.com/meta/default-meta-image-v2.png",
       url : "https://www.udemy.com/certificate/UC-db4d19be-5099-4844-8a15-b45cc014b257"
     },
     {
@@ -63,7 +63,7 @@ export async function getCertificates() {
       title : "Applied Linux CLI and Shell Scripting",
       issuedDate : "7 Apr, 2021",
       orgName : "Udemy",
-      orgLogo : "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1626275253364?e=1706745600&v=beta&t=hZpSsTExW1TDpYr3HBriHaXhgkGyaGrha3yv1yzEDFo",
+      orgLogo : "https://s.udemycdn.com/meta/default-meta-image-v2.png",
       url : "https://www.udemy.com/certificate/UC-408317cd-bc01-4a83-ab05-1924f770abf4"
     },
     {
@@ -72,7 +72,7 @@ export async function getCertificates() {
       title : "Complete JAVASCRIPT with HTML5,CSS3",
       issuedDate : "30 Mar, 2021",
       orgName : "Udemy",
-      orgLogo : "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1626275253364?e=1706745600&v=beta&t=hZpSsTExW1TDpYr3HBriHaXhgkGyaGrha3yv1yzEDFo",
+      orgLogo : "https://s.udemycdn.com/meta/default-meta-image-v2.png",
       url : "https://www.udemy.com/certificate/UC-e5cd069b-a56d-4782-9bc0-2b5a8de26e66"
     },
     {
@@ -81,7 +81,7 @@ export async function getCertificates() {
       title : "Linux Command Line Terminal Basic",
       issuedDate : "16 Mar, 2022",
       orgName : "Udemy",
-      orgLogo : "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1626275253364?e=1706745600&v=beta&t=hZpSsTExW1TDpYr3HBriHaXhgkGyaGrha3yv1yzEDFo",
+      orgLogo : "https://s.udemycdn.com/meta/default-meta-image-v2.png",
       url : "https://www.udemy.com/certificate/UC-956004af-48d8-4c31-b8e7-5c3d8be24628"
     },
     {
@@ -90,7 +90,7 @@ export async function getCertificates() {
       title : "Microsoft Certified HTML, CSS & Bootstrap",
       issuedDate : "01 July, 2022",
       orgName : "DevTown",
-      orgLogo : "https://media.licdn.com/dms/image/C4E0BAQEBQ0ItUQd9GA/company-logo_200_200/0/1662036890743?e=1706745600&v=beta&t=4hjWG28lzjzbwU4uXR7mcLj3txjT-FRUNx1YvwL0fvE",
+      orgLogo : "https://assets-global.website-files.com/6077f96cf4fa19216396daaf/63f36981950c481a7701e95f_logo-p-500.png",
       url : "https://cert.devtown.in/verify/Z6BuLj"
     },
     {
@@ -99,7 +99,7 @@ export async function getCertificates() {
       title : "Google Certified HTML, CSS and Bootstrap Bootcamp",
       issuedDate : "01 July, 2022",
       orgName : "DevTown",
-      orgLogo : "https://media.licdn.com/dms/image/C4E0BAQEBQ0ItUQd9GA/company-logo_200_200/0/1662036890743?e=1706745600&v=beta&t=4hjWG28lzjzbwU4uXR7mcLj3txjT-FRUNx1YvwL0fvE",
+      orgLogo : "https://assets-global.website-files.com/6077f96cf4fa19216396daaf/63f36981950c481a7701e95f_logo-p-500.png",
       url : "https://cert.devtown.in/verify/ZpdjXe"
     },
     {
@@ -108,7 +108,7 @@ export async function getCertificates() {
       title : "HTML, CSS and Bootstrap Bootcamp",
       issuedDate : "01 July, 2022",
       orgName : "DevTown",
-      orgLogo : "https://media.licdn.com/dms/image/C4E0BAQEBQ0ItUQd9GA/company-logo_200_200/0/1662036890743?e=1706745600&v=beta&t=4hjWG28lzjzbwU4uXR7mcLj3txjT-FRUNx1YvwL0fvE",
+      orgLogo : "https://assets-global.website-files.com/6077f96cf4fa19216396daaf/63f36981950c481a7701e95f_logo-p-500.png",
       url : "https://cert.devtown.in/verify/DlwGJ"
     },
   ];
