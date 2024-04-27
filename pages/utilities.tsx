@@ -72,7 +72,7 @@ function UtilitySection({ utility }: { utility: UtilityType }) {
               >
                 {/* @ts-ignore */}
                 <Icon className="utilities-svg" />
-                <p className="absolute bottom-3 text-[10px] select-none">
+                <p className="absolute bottom-3 text-[10px] select-none text-center">
                   {item.name}
                 </p>
               </Link>
