@@ -110,5 +110,3 @@ The server should now be running on [localhost:3000](http://localhost:3000).
 * Add these variables to the `.env.local` file.
 
 After setting up the environment variables, you are ready to run the application!
-
-## Screenshots & Demo
