@@ -86,7 +86,7 @@ export default function Home(
             </div>
 
             <Link
-              href="/"
+              href="https://docs.google.com/document/d/1jJ0u6E9VYJNWzFFaFdlEbAx0_UwrIMrOCCuNUNx7smc/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2 border rounded-md border-gray-500 dark:border-gray-400 select-none  hover:bg-white dark:hover:bg-neutral-800 outline-none  active:scale-95 transition-transform"
